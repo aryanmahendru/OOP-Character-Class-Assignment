@@ -1,0 +1,15 @@
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.csproj.AssemblyReference.cache
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.AssemblyInfoInputs.cache
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.AssemblyInfo.cs
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.csproj.CoreCompileInputs.cache
+F:\c#\Character Class Assignment\bin\Debug\net7.0\Character Class Assignment.exe
+F:\c#\Character Class Assignment\bin\Debug\net7.0\Character Class Assignment.deps.json
+F:\c#\Character Class Assignment\bin\Debug\net7.0\Character Class Assignment.runtimeconfig.json
+F:\c#\Character Class Assignment\bin\Debug\net7.0\Character Class Assignment.dll
+F:\c#\Character Class Assignment\bin\Debug\net7.0\Character Class Assignment.pdb
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.dll
+F:\c#\Character Class Assignment\obj\Debug\net7.0\refint\Character Class Assignment.dll
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.pdb
+F:\c#\Character Class Assignment\obj\Debug\net7.0\Character Class Assignment.genruntimeconfig.cache
+F:\c#\Character Class Assignment\obj\Debug\net7.0\ref\Character Class Assignment.dll
